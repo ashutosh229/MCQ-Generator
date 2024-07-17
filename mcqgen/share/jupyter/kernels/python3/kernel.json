@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/akuma/Desktop/GenAI/MCQ-Generator/mcqgen\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
